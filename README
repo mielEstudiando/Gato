@@ -1,0 +1,20 @@
+Por alguna razón extraña, me empezó a fallar el proyecto en
+intelliJ, y no me reconoció el org.example
+Hacer un commit, y hacer una copia del repositorio lo reparó
+
+Objeto elegido: Gato
+    Atributos:
+    -Raza (String, no cambia)
+    -Color (String[], no cambia)
+    -Peso (Double, cambia)
+    -Peludo (Boleano, no cambia)
+    -Nombre (String, no cambia)
+    Métodos:
+    -Comer: el gato engorda, modifica el atributo peso
+    -Jugar: el gato gasta calorías, modifica el atributo peso
+    -Usar caja de arena: el gato hace sus necesidades, no afecta
+    -Dormir: el gato duerme, no afecta
+    -Botar pelo: el gato, si es peludo, bota pelos. si no es peludo, no bota pelos.
+
+    ¿Podrían crearse más atributos variables, como cansancio, hambre y otras cosas?
+    Parecería un pou la verdad

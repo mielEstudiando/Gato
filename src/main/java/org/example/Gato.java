@@ -4,7 +4,7 @@ import java.util.Random;
 public class Gato {
 
     String raza;
-    String color;
+    String[] color;
     Double peso;
     Boolean peludo;
     String nombre;
@@ -33,4 +33,7 @@ public class Gato {
         System.out.println("¡Ahora la casa apesta!");
     }
 
+    public static void main(String[] args) {
+        System.out.println("Melo es hermoso");
+    }
 }
