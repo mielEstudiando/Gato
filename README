@@ -1,3 +1,5 @@
+Millarayen Ferrada
+
 Por alguna razón extraña, me empezó a fallar el proyecto en
 intelliJ, y no me reconoció el org.example
 Hacer un commit, y hacer una copia del repositorio lo reparó
@@ -16,5 +18,5 @@ Objeto elegido: Gato
     -Dormir: el gato duerme, no afecta
     -Botar pelo: el gato, si es peludo, bota pelos. si no es peludo, no bota pelos.
 
-    ¿Podrían crearse más atributos variables, como cansancio, hambre y otras cosas?
-    Parecería un pou la verdad
+¿Podrían crearse más atributos variables, como cansancio, hambre y otras cosas?
+Parecería un pou la verdad

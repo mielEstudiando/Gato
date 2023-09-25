@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="256e579c-c651-4247-a558-eb97e60355e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Gato.java" afterDir="false" />
-    </list>
+    <list default="true" id="256e579c-c651-4247-a558-eb97e60355e7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -51,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1695214292995</updated>
     </task>
+    <task id="LOCAL-00001" summary="AHORA SÍ AGREGUÉ EL README, últimos cambios en la rama master">
+      <option name="closed" value="true" />
+      <created>1695681530337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695681530337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AHORA SÍ AGREGUÉ EL README, últimos cambios en la rama master" />
+    <option name="LAST_COMMIT_MESSAGE" value="AHORA SÍ AGREGUÉ EL README, últimos cambios en la rama master" />
   </component>
 </project>
